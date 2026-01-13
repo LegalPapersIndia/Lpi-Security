@@ -92,7 +92,8 @@ const Footer = () => {
             <div className="space-y-5 text-sm text-slate-400">
               <div className="flex items-start gap-4">
                 <MapPin className="text-yellow-500 shrink-0" size={20} />
-                <p>12th Floor, Security Plaza, Connaught Place, New Delhi - 110001</p>
+                <p> F-2 , Sector 8 , Noida 
+                      Uttar Pradesh, India - 201301</p>
               </div>
               <div className="flex items-center gap-4">
                 <Phone className="text-yellow-500 shrink-0" size={20} />

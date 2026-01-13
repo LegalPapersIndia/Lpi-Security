@@ -4,7 +4,7 @@ import { Phone, Mail, MapPin, Clock, Send, MessageCircle, ShieldCheck } from 'lu
 const Contact = () => {
   const whatsappNumber = "917505266931";
   // REPLACE THIS WITH YOUR ACTUAL EMAIL
-  const targetEmail = "contact@lpi-security.in"; 
+  const targetEmail = "udit9407@gmail.com"; 
 
   return (
     <div className="bg-slate-50 min-h-screen">
@@ -36,8 +36,8 @@ const Contact = () => {
                   <div>
                     <h5 className="font-bold text-slate-900 uppercase text-xs tracking-widest mb-1">Headquarters</h5>
                     <p className="text-slate-600 text-sm leading-relaxed">
-                      12th Floor, Security Plaza, Connaught Place, <br />
-                      New Delhi - 110001, India
+                      F-2 , Sector 8 , Noida 
+                      Uttar Pradesh, India - 201301
                     </p>
                   </div>
                 </div>
