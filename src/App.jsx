@@ -8,10 +8,12 @@ import Services from './pages/Services';
 import Gallery from './pages/Gallery';
 import Blog from './pages/Blog';
 import Contact from './pages/Contact';
+import ScrollToTop from './Components/scrollToTop';
 
 const App = () => {
   return (
     <Router>
+      <ScrollToTop /> {/* Place it here */}
       <div className="flex flex-col min-h-screen">
         <Navbar />
           <Routes>
