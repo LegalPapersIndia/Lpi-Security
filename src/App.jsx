@@ -10,6 +10,7 @@ import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 import ScrollToTop from './Components/scrollToTop';
 
+
 const App = () => {
   return (
     <Router>
